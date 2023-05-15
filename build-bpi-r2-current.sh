@@ -1,0 +1,1 @@
+./compile.sh  BOARD=bananapir2 BRANCH=current RELEASE=bullseye BUILD_MINIMAL=yes BUILD_DESKTOP=no BUILD_ONLY=default KERNEL_CONFIGURE=no COMPRESS_OUTPUTIMAGE=sha,gpg,img EXPERT=yes DEBUG=no
